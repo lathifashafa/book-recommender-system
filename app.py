@@ -27,7 +27,7 @@ st.markdown(
           /* Gambar background untuk perangkat seluler */
         @media (max-width: 767px) {
             .stApp {
-                background-image: url("https://i.imgur.com/UmJ8w0r.png");
+                background-image: url("https://i.imgur.com/zn3Uwl7.png");
                 background-size: 100% 100%;
                 background-repeat: no-repeat;
             }

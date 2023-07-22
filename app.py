@@ -36,7 +36,7 @@ st.markdown(
         /* Gambar background untuk desktop */
         @media (min-width: 768px) {
             .stApp {
-                background-image: url("https://i.imgur.com/EgQwENZ.png");
+                background-image: url("https://i.imgur.com/WgfptGM.png");
                 background-size: 100% 100%;
                 background-repeat: no-repeat;
             }

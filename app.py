@@ -46,7 +46,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-title = Image.open('bgbooktitle.png')
+title = Image.open('title-bg.png')
 st.image(title)
 st.subheader('  ')
 

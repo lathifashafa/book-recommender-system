@@ -46,7 +46,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-title = Image.open('title3.png')
+title = Image.open('titlepng.png')
 st.image(title)
 st.subheader('  ')
 
